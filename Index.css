@@ -1,14 +1,5 @@
-#st {
-   background-origin: border-box;
-    border-color: aqua;
-}
 body {
     background-color: #2d2e2e;
-   }
-button {
-    border-color: darkgreen;
-    border-style: solid;
-    background-color: black;
    }
 h1 {
     color: #70a300;
