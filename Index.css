@@ -3,7 +3,7 @@
     border-color: aqua;
 }
 body {
-    background-color: gray;
+    background-color: #2d2e2e;
    }
 button {
     border-color: darkgreen;
@@ -11,25 +11,25 @@ button {
     background-color: black;
    }
 h1 {
-    color: black;
+    color: #70a300;
    }
 h2 {
-    color: black;
+    color: #c7c7c7;
    }
 h3 {
-    color: black;
+    color: #c7c7c7;
    }
 h4 {
-    color: black;
+    color: #c7c7c7;
    }
 h5 {
-    color: black;
+    color: #c7c7c7;
    }
 h6 {
-    color: black;
+    color: #c7c7c7;
    }
 p {
-    color:Black;
+    color:#ff3f14;
    }
 a {
     color:white;
