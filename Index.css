@@ -1,7 +1,17 @@
-button {
+#smlow {
     border-color: #70a300;
     border-style: solid;
     background-color: #8bcc00;
+   }
+#smmed {
+    border-color: #a38000;
+    border-style: solid;
+    background-color: #e6aa05;
+   }
+#smhigh {
+    border-color: #a30000;
+    border-style: solid;
+    background-color: #e62605;
    }
 body {
     background-color: #2d2e2e;
