@@ -13,6 +13,11 @@
     border-style: solid;
     background-color: #e62605;
    }
+#pm {
+	border-color: #0054c2;
+	border-style: solid;
+	background-color: #006eff;
+}
 body {
     background-color: #2d2e2e;
    }
